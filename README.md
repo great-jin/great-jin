@@ -1,0 +1,5 @@
+- 👋 Hi, I’m GREAT
+- 👀 I’m interested in Java/Linux, Music/Movies
+- 🌱 A senior student, trying to do the best.
+- 📫 Email:great__jin@163.com
+- ⛵ My Blog:great-invincible.xyz
