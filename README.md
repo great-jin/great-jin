@@ -1,5 +1,4 @@
-- 👋 Hi, I’m GREAT
-- 👀 I’m interested in Java/Linux, Music/Movies
-- 🌱 A senior student, trying to do the best.
+- 👋 Hi, I’m GREAT，a senior student.
+- 👀 I’m interested in Java/Linux.
 - 📫 Email: great__jin@163.com
 - ⛵ My Blog: great-invincible.xyz
