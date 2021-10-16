@@ -1,4 +1,4 @@
-- 👋 Hi, I’m GREAT, a senior student.
-- 👀 I’m interested in Java/Linux.
+- 👋 我是烽火戏诸诸诸侯，一名大四学生.
+- 👀 正在朝着 Java/Linux 不断前行.
 - 📫 Email: great__jin@163.com
-- ⛵ My Blog: great-invincible.xyz
+- ⛵ Blog: great-invincible.xyz
