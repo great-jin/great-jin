@@ -1,4 +1,4 @@
-- 👋 我是烽火戏诸诸诸侯，一名大四学生.
+- 👋 嗨，我是烽火戏诸诸诸侯，一名大四学生.
 - 👀 正在朝着 Java/Linux 不断前行.
 - 📫 Email: great__jin@163.com
 - ⛵ Blog: great-invincible.xyz
