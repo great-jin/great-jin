@@ -28,15 +28,15 @@
 <br/>
 
 <div align="center"> 
-  <img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="150px">
+  <img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="170px">
   <img src="https://github-readme-stats.vercel.app/api?username=great-jin&show_icons=true" />
-  <img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="150px">
+  <img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="170px">
 </div>
 <br/>
 
 <div align="center"> 
-  <img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="150px">
+  <img src="https://media.giphy.com/media/xTiTnnEWYFqDYVs2RO/giphy.gif" width="120px">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=great-jin&border_radius=5)](https://git.io/streak-stats">
-  <img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="150px">
+  <img src="https://media.giphy.com/media/xTiTnnEWYFqDYVs2RO/giphy.gif" width="120px">
 </div>
 <br/>
