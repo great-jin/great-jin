@@ -13,8 +13,3 @@
 <div align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=great-jin&theme=dracula" /> 
 </div>
-<br/>
-
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=great-jin" /> 
-</div>
