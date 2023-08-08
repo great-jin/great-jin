@@ -42,3 +42,8 @@
   <img src="https://media.giphy.com/media/xTiTnnEWYFqDYVs2RO/giphy.gif" width="120px">
 </div>
 <br/>
+
+<div align="center"> 
+<!--   <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" /> -->
+</div>
+<br/>
