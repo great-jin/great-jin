@@ -2,8 +2,8 @@
 - :relaxed: Hi, I am great-jin.
 - :city_sunrise: Live in Fujian, China.
 - :mag: I am currently working on Bigdata.
-- 
 
+## :mailbox: Reach Me
 <div align="center">
   <a href="https://great-jin.github.io/">
     <img src="https://img.shields.io/badge/Blog-博客-blue" />&nbsp;
@@ -26,7 +26,7 @@
 <br/>
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=great-jin&show_icons=true" />&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=great-jin&show_icons=true" />&nbsp;
   <img src="http://github-readme-streak-stats.herokuapp.com?user=great-jin&border_radius=5)](https://git.io/streak-stats">
 </div>
 <br/>
