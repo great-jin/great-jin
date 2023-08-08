@@ -28,4 +28,5 @@
 
 <div align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=great-jin&show_icons=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=great-jin&border_radius=5)](https://git.io/streak-stats">
 </div>
