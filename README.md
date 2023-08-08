@@ -1,7 +1,10 @@
+
 ## :sparkles: About Me
 - :relaxed: Hi, I am great-jin.
 - :city_sunrise: Live in Fujian, China.
 - :mag: I am currently working on Bigdata.
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ## :mailbox: Reach Me
 <div align="center">
@@ -26,7 +29,5 @@
 <br/>
 
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=great-jin&show_icons=true" />&nbsp;
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=great-jin&border_radius=5)](https://git.io/streak-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=great-jin&show_icons=true" />
 </div>
-<br/>
