@@ -3,6 +3,14 @@
 - 📫 Email：ibudai56@163.com
 - 📷 WebSite：great-jin.github.io
 
+<div align="center">
+  <a href="https://great-jin.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;emsp;
+  <a href="https://www.zhihu.com/people/xiao-ming-92-43-49"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+  <!-- visitor statistics logo 访问量统计徽标 -->
+  <img src="https://komarev.com/ghpvc/?username=great-jin&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+</div>
+<br/>
+
 <div align="center"> 
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=great-jin&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   &nbsp;&nbsp;&nbsp;&nbsp;
