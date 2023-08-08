@@ -13,6 +13,7 @@
 <div align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=great-jin&theme=dracula" /> 
 </div>
+<br/>
 
 <div align="center">
   <a href="https://great-jin.github.io/"><img src="https://img.shields.io/badge/Blog-博客-blue" />&nbsp;
