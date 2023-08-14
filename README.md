@@ -4,12 +4,12 @@
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-## :sparkles: About Me
-- :relaxed: Hi, I am great-jin.
+## :sparkles: Hey there
+- :ocean: Hi, I am great-jin.
 - :city_sunrise: Live in Fujian, China.
 - :mag: I am currently working on BigData.
 
-## :mailbox: Reach Me
+## :shell: Reach Me
 <div align="center">
   <a target="_blank" href="https://great-jin.github.io/">
     <img src="https://img.shields.io/badge/Blog-博客-blue" />&nbsp;
