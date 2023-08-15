@@ -41,18 +41,15 @@
 <br/>
 
 <!--
-<img src="https://media.giphy.com/media/l46CuOJgbOJVjhuw0/giphy.gif" width="170px">
 <div align="center"> 
-  <img src="https://media.giphy.com/media/xTiTnnEWYFqDYVs2RO/giphy.gif" width="120px">
+  <img src="https://cdn.jsdelivr.net/gh/great-jin/great-jin@v-1.0/img/run.gif“ width="170px">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=great-jin&border_radius=5)](https://git.io/streak-stats">
-  <img src="https://media.giphy.com/media/xTiTnnEWYFqDYVs2RO/giphy.gif" width="120px">
+  <img src="https://cdn.jsdelivr.net/gh/great-jin/great-jin@v-1.0/img/run.gif“ width="170px">
 </div>
 <br/>
 -->
 
-<!--
 <div align="center"> 
    <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
 </div>
 <br/>
--->
