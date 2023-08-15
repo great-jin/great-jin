@@ -2,7 +2,7 @@
 
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />  -->
 
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<img align= "right" width= "250" src= "https://cdn.jsdelivr.net/gh/great-jin/great-jin@v-1.0/img/cat.gif"/>
 
 ## :sparkles: Hey there
 - :ocean: Hi, I am great-jin.
@@ -34,9 +34,9 @@
 <br/>
 
 <div align="center"> 
-  <img src="https://media.giphy.com/media/xTiTnnEWYFqDYVs2RO/giphy.gif" width="120px">
+  <img src="https://cdn.jsdelivr.net/gh/great-jin/great-jin@v-1.0/img/color.gif" width="120px">
   <img src="https://github-readme-stats.vercel.app/api?username=great-jin&show_icons=true" />
-  <img src="https://media.giphy.com/media/xTiTnnEWYFqDYVs2RO/giphy.gif" width="120px">
+  <img src="https://cdn.jsdelivr.net/gh/great-jin/great-jin@v-1.0/img/color.gif" width="120px">
 </div>
 <br/>
 
