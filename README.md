@@ -48,8 +48,3 @@
 </div>
 <br/>
 -->
-
-<div align="center"> 
-   <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
-</div>
-<br/>
