@@ -7,7 +7,7 @@
 ## :sparkles: Hey there
 - :ocean: Hi, I am great-jin.
 - :city_sunrise: Live in Fujian, China.
-- :mag: I am currently working on BigData.
+- :mag: Focus on Java/Linux, and currently working on BigData.
 
 ## :shell: Reach Me
 <div align="center">
