@@ -7,7 +7,9 @@
 ## :sparkles: Hey there
 - :ocean: Hi, I am great-jin.
 - :city_sunrise: Live in Fujian, China.
-- :mag: Focus on Java/Linux, and currently working on BigData.
+- :mag: Focus on Java, and currently working on Bigdata.
+- :email: Email: ibudai56@163.com
+- :camera: Website: https://great-jin.github.io/
 
 ## :shell: Reach Me
 <div align="center">
