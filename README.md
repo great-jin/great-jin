@@ -11,7 +11,7 @@
 - :camera: Website: <a target="_blank" href="https://great-jin.github.io/">布袋青年</a>
 - :email: Email: ibudai56@163.com
 
-## :shell: Reach Me
+## :shell: Information
 <div align="center">
   <a target="_blank" href="https://great-jin.github.io/atom.xml">
     <img src="https://img.shields.io/badge/RSS-博客-blue" />&nbsp;
