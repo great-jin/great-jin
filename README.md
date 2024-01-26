@@ -8,16 +8,13 @@
 - :ocean: Hi, I am great-jin.
 - :city_sunrise: Live in Fujian, China.
 - :mag: Focus on Java, and currently working on Bigdata.
+- :camera: Website: <a target="_blank" href="https://great-jin.github.io/">布袋青年</a>
 - :email: Email: ibudai56@163.com
-- :camera: Website: https://great-jin.github.io/
 
 ## :shell: Reach Me
 <div align="center">
-  <a target="_blank" href="https://great-jin.github.io/">
-    <img src="https://img.shields.io/badge/Blog-博客-blue" />&nbsp;
-  </a>
   <a target="_blank" href="https://great-jin.github.io/atom.xml">
-    <img src="https://img.shields.io/badge/RSS-订阅-blue" />&nbsp;
+    <img src="https://img.shields.io/badge/RSS-博客-blue" />&nbsp;
   </a>
   <a target="_blank" href="https://www.zhihu.com/people/xiao-ming-92-43-49">
     <img src="https://img.shields.io/badge/Zhihu-知乎-blue" />&nbsp;
