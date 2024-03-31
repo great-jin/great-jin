@@ -32,12 +32,14 @@
 </div>
 <br/>
 
+<!--
 <div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/great-jin/great-jin@v-1.0/img/color.gif" width="120px">
   <img src="https://github-readme-stats.vercel.app/api?username=great-jin&show_icons=true" />
   <img src="https://cdn.jsdelivr.net/gh/great-jin/great-jin@v-1.0/img/color.gif" width="120px">
 </div>
 <br/>
+-->
 
 <!--
 <div align="center"> 
