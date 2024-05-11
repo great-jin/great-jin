@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/RSS-博客-blue" />&nbsp;
   </a>
   <a target="_blank" href="https://www.zhihu.com/people/xiao-ming-92-43-49">
-    <img src="https://img.shields.io/badge/Zhihu-知乎-blue" />&nbsp;
+    <img src="https://img.shields.io/badge/Juejin-掘金-blue" />&nbsp;
   </a>
   <a target="_blank" href="mailto:ibudai56@163.com">
     <img src="https://img.shields.io/badge/Email-邮件-blue" />&nbsp;
