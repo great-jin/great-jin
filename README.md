@@ -16,7 +16,7 @@
   <a target="_blank" href="https://great-jin.github.io/atom.xml">
     <img src="https://img.shields.io/badge/RSS-博客-blue" />&nbsp;
   </a>
-  <a target="_blank" href="https://www.zhihu.com/people/xiao-ming-92-43-49">
+  <a target="_blank" href="https://juejin.cn/user/1867419248757015">
     <img src="https://img.shields.io/badge/Juejin-掘金-blue" />&nbsp;
   </a>
   <a target="_blank" href="mailto:ibudai56@163.com">
