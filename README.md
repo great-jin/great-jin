@@ -8,8 +8,9 @@
 - :ocean: Hi, I am great-jin.
 - :city_sunrise: Live in Fujian, China.
 - :mag: Focus on Java, and currently working on Bigdata.
-- :camera: Website: <a target="_blank" href="https://great-jin.github.io/">布袋青年</a>
 - :email: Email: ibudai56@163.com
+- :camera: Website: <a target="_blank" href="https://great-jin.github.io/">布袋青年</a>
+- :telescope: Organization: <a target="_blank" href="https://github.com/BuDaiYouth/">BuDai Youth</a>
 
 ## :shell: Information
 <div align="center">
