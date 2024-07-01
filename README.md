@@ -5,12 +5,11 @@
 <img align= "right" width= "250" src= "https://cdn.jsdelivr.net/gh/great-jin/great-jin@v-1.0/img/cat.gif"/>
 
 ## :sparkles: Hey there
-- :ocean: Hi, I am great-jin.
-- :city_sunrise: Live in Fujian, China.
-- :mag: Focus on Java, and currently working on Bigdata.
-- :email: Email: ibudai56@163.com
-- :camera: Website: <a target="_blank" href="https://great-jin.github.io/">布袋青年</a>
-- :telescope: Organization: <a target="_blank" href="https://github.com/BuDaiYouth/">BuDai Youth</a>
+- Hi, I am great-jin.
+- Live in Fujian, China. Focus on Java and Bigdata.
+- Organization: <a target="_blank" href="https://github.com/BuDaiYouth/">BuDai Youth</a>
+- Website: <a target="_blank" href="https://great-jin.github.io/">布袋青年</a>
+- Email: ibudai56@163.com
 
 ## :shell: Information
 <div align="center">
