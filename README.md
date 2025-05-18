@@ -2,7 +2,7 @@
 
 ## :sparkles: Hey there
 - Hi, I am great-jin.
-- Live in Fujian, China. Focus on Java and Bigdata.
+- Live in China, focus on Java.
 - Email: ibudai56@163.com
 - Website: <a target="_blank" href="https://great-jin.github.io/">布袋青年 (By GitHub)</a>, <a target="_blank" href="https://budai.pages.dev/">布袋青年 (By CloudFare)</a>
 
