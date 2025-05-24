@@ -32,7 +32,6 @@
     </tr>
   </table>
 </div>
-<br/>
 
 
 ## :bar_chart: Statistics
