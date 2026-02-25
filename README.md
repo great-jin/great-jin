@@ -54,7 +54,6 @@
 <div align="center"> 
   <table border="0" style="border: none;">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=great-jin&show_icons=true" /></td>
       <td> <img src="http://github-readme-streak-stats.herokuapp.com?user=great-jin&border_radius=5)](https://git.io/streak-stats"></td>
     </tr>
   </table>
